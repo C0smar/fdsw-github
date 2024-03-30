@@ -4,10 +4,9 @@ body {
 /* logo navbar */
 
 .logo-navbar { 
-  width: 350px;
+  width: 280px;
+  height: 70px;
 }
-
-
 /* Hero Section */
 
 #Hero-Section {
