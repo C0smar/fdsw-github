@@ -1,6 +1,12 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+/* logo navbar */
+
+.logo-navbar { 
+  width: 350px;
+}
+
 
 /* Hero Section */
 
